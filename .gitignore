@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# qt creator extension
+*.user
